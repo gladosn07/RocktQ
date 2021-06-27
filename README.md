@@ -4,9 +4,6 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -16,10 +13,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
