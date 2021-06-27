@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="public/images/Projeto_NLW.png" width="600px" height="600px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="public/images/Projeto_NLW.png" width="800px" height="550px" />
 </h1>
 
 <p align="center">
